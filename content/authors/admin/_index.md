@@ -43,4 +43,4 @@ highlight_name: true
 ---
 CHEN Shixin is an undergraduate (senior) at [the School of Electronic Science and Engineering](https://ese.nju.edu.cn/ese_en/main.htm), Nanjing University. His research interests include Hardware & Software Co-design, AI for EDA, Agile Hardware Development. He is going to pursue his Ph.D. degree at [the Department of Computer Science and Engineering](http://www.cse.cuhk.edu.hk/), the Chinese Univeristy of Hong Kong, supervised by [Prof. Yu Bei](http://www.cse.cuhk.edu.hk/~byu/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_Shixin_CHEN.pdf" "newtab" >}}CV{{< /staticref >}}.
