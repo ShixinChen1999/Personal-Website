@@ -1,9 +1,8 @@
 ---
 title: CHEN Shixin
-role: Ph.D. student of the Department of Computer Science and Engineering, the
-  Chinese University of Hong Kong
+role: Ph.D. student of the Department of Computer Science and Engineering, CUHK
 avatar_filename: avatar.jpg
-bio: My research interests include hardware & software co-design, AI for EDA,
+bio: My research interests include Hardware & Software Co-design, AI for EDA,
   Agile Hardware Development
 interests:
   - Artificial Intelligence
@@ -34,11 +33,11 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: The Chinese University of Hong Kong
-      year: 2020
+      year: ""
     - course: BSc in Electronic Science and Engineering (VLSI Design and System
         Integration))
       institution: The School of Electronic Science and Engineering, NJU
-      year: 2018
+      year: ""
 email: shixinchen@smail.nju.edu.cn
 superuser: true
 highlight_name: true
