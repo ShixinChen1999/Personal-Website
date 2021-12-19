@@ -30,7 +30,7 @@ education:
     - course: Ph.D. in Computer Science
       institution: The Department of Computer Science and Engineering, The Chinese
         University of Hong Kong
-        url: https://www.nju.edu.cn/EN/
+      url: https://www.nju.edu.cn/EN/
       year: 2022-2026
     - course: B.Sc. in Electronic Science and Engineering (VLSI Design and System
         Integration)
