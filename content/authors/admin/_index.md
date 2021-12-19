@@ -2,7 +2,7 @@
 title: CHEN Shixin
 role: Currently I am an undergraduate in my senior year. I am going to pursue my
   Ph.D. degree at the Chinese University of Hong Kong.
-avatar_filename: personal-photo.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
