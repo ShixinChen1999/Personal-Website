@@ -34,11 +34,11 @@ education:
     - course: Ph.D. in Computer Science
       institution: The Department of Computer Science and Engineering, The Chinese
         University of Hong Kong
-      year: ""
+      year: 2026
     - course: B.Sc. in Electronic Science and Engineering (VLSI Design and System
-        Integration))
+        Integration)
       institution: The School of Electronic Science and Engineering, NJU
-      year: ""
+      year: 2022
 email: shixinchen@smail.nju.edu.cn
 superuser: true
 highlight_name: true
