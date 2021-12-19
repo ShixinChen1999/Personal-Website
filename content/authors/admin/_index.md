@@ -28,13 +28,13 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Computer Science
-      institution: The Department of Computer Science and Engineering, The Chinese
+      institution: [The Department of Computer Science and Engineering](http://www.cse.cuhk.edu.hk/), The Chinese
         University of Hong Kong
       url: https://www.nju.edu.cn/EN/
       year: 2022-2026
     - course: B.Sc. in Electronic Science and Engineering (VLSI Design and System
         Integration)
-      institution: The School of Electronic Science and Engineering, NJU
+      institution: [The School of Electronic Science and Engineering](https://ese.nju.edu.cn/ese_en/main.htm), NJU
       year: 2018-2022
     - course: Senior High School Diploma
       institution: Chengdu Shishi Senior High School （成都市石室中学）
