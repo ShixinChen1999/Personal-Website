@@ -35,7 +35,7 @@ education:
       institution: The School of Electronic Science and Engineering, NJU
       year: 2018-2022
     - course: Senior High School Diploma
-      institution: Chengdu Shishi Senior High School （成都市石室中学）
+      institution: Shishi Senior High School （成都市石室中学）
       year: 2015-2018
 email: shixinchen@smail.nju.edu.cn
 superuser: true
