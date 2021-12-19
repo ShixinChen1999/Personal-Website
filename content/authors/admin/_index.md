@@ -23,7 +23,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/%E6%97%B6%E9%91%AB-%E9%99%88-163401217/
 organizations:
   - name: Nanjing University
     url: https://www.nju.edu.cn/EN/
@@ -37,14 +37,13 @@ education:
       year: 2026
     - course: B.Sc. in Electronic Science and Engineering (VLSI Design and System
         Integration)
-      institution: The School of Electronic Science and Engineering, NJU
+      institution: The School of Electronic Science and Engineering{{<
+        https://ese.nju.edu.cn/ese_en/main.htm >}}, NJU
       year: 2022
 email: shixinchen@smail.nju.edu.cn
 superuser: true
 highlight_name: true
 ---
 CHEN Shixin is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
