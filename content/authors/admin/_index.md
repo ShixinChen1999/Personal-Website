@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: shixinchen@smail.nju.edu.cn
+    link: /#contact
     display:
       header: true
   - icon: github
