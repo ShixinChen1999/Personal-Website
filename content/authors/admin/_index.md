@@ -12,6 +12,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: shixinchen@smail.nju.edu.cn
+    display:
+      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
