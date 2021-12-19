@@ -43,6 +43,6 @@ email: shixinchen@smail.nju.edu.cn
 superuser: true
 highlight_name: true
 ---
-CHEN Shixin is an undergraduate (senior) at the School of Electronic Science and Engineering, Nanjing University. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+CHEN Shixin is an undergraduate (senior) at the School of Electronic Science and Engineering, Nanjing University. His research interests includeHardware & Software Co-design, AI for EDA, Agile Hardware Development. He is going to pursue his Ph.D. degree at the Chinese Univeristy of Hong Kong, supervised by Prof. Yu Bei.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
