@@ -6,8 +6,8 @@ bio: My research interests include Hardware & Software Co-design, AI for EDA,
   Agile Hardware Development
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Hardware & Software Co-design
+  - Agile Hardware Development
 social:
   - icon: envelope
     icon_pack: fas
