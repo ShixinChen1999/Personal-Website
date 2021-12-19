@@ -31,10 +31,11 @@ organizations:
     url: https://www.cuhk.edu.hk/english/index.html
 education:
   courses:
-    - course: PhD in Computer Science
-      institution: The Chinese University of Hong Kong
+    - course: Ph.D. in Computer Science
+      institution: The Department of Computer Science and Engineering, The Chinese
+        University of Hong Kong
       year: ""
-    - course: BSc in Electronic Science and Engineering (VLSI Design and System
+    - course: B.Sc. in Electronic Science and Engineering (VLSI Design and System
         Integration))
       institution: The School of Electronic Science and Engineering, NJU
       year: ""
