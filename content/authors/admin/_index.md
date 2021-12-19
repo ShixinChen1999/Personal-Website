@@ -30,14 +30,14 @@ education:
     - course: Ph.D. in Computer Science
       institution: The Department of Computer Science and Engineering, The Chinese
         University of Hong Kong
-      year: 2026
+      year: 2022-2026
     - course: B.Sc. in Electronic Science and Engineering (VLSI Design and System
         Integration)
       institution: The School of Electronic Science and Engineering, NJU
-      year: 2022
+      year: 2018-2022
     - course: Senior High School Diploma
       institution: Chengdu Shishi Senior High School （成都市石室中学）
-      year: 2018
+      year: 2015-2018
 email: shixinchen@smail.nju.edu.cn
 superuser: true
 highlight_name: true
