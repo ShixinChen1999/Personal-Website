@@ -3,8 +3,8 @@ title: CHEN Shixin
 role: Ph.D. student of the Department of Computer Science and Engineering, the
   Chinese University of Hong Kong
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include hardware & software co-design, AI for EDA,
+  Agile Hardware Development
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -26,25 +26,24 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Nanjing University
+    url: https://www.nju.edu.cn/EN/
+  - name: The Chinese University of Hong Kong
+    url: https://www.cuhk.edu.hk/english/index.html
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Computer Science
+      institution: The Chinese University of Hong Kong
+      year: 2020
+    - course: BSc in Electronic Science and Engineering (VLSI Design and System
+        Integration))
+      institution: The School of Electronic Science and Engineering, NJU
+      year: 2018
+email: shixinchen@smail.nju.edu.cn
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+CHEN Shixin is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
