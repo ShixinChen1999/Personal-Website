@@ -33,8 +33,7 @@ education:
       year: 2026
     - course: B.Sc. in Electronic Science and Engineering (VLSI Design and System
         Integration)
-      institution: The School of Electronic Science and Engineering{{<
-        https://ese.nju.edu.cn/ese_en/main.htm >}}, NJU
+      institution: The School of Electronic Science and Engineering, NJU
       year: 2022
 email: shixinchen@smail.nju.edu.cn
 superuser: true
