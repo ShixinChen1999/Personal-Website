@@ -16,7 +16,7 @@ social:
       header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ShixinChen1999/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E6%97%B6%E9%91%AB-%E9%99%88-163401217/
@@ -30,6 +30,7 @@ education:
     - course: Ph.D. in Computer Science
       institution: The Department of Computer Science and Engineering, The Chinese
         University of Hong Kong
+        url: https://www.nju.edu.cn/EN/
       year: 2022-2026
     - course: B.Sc. in Electronic Science and Engineering (VLSI Design and System
         Integration)
