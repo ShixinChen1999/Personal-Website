@@ -25,11 +25,11 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2019-12-12"
+  description: "the highest scholarship in Nanjing University"
+  organization: Nanjing University
+  organization_url: https://www.nju.edu.cn/EN/
+  title: The Special Top-Grade Scholarship
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
