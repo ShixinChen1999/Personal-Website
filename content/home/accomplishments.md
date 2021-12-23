@@ -1,3 +1,4 @@
+
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -23,14 +24,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+<!-- - certificate_url: https://www.coursera.org
   date_end: ""
   date_start: "2021-12-01"
   description: "the highest scholarship in Nanjing University"
   organization: Nanjing University
   organization_url: https://www.nju.edu.cn/EN/
   title: The Special Top-Grade Scholarship
-  url: ""
+  url: "" -->
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
